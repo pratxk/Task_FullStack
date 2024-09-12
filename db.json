@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Task 1",
+      "description": "This is task 1",
+      "status": "todo"
+    },
+    {
+      "id": 2,
+      "title": "Task 2",
+      "description": "This is task 2",
+      "status": "inProgress"
+    },
+    {
+      "id": 3,
+      "title": "Task 3",
+      "description": "This is task 3",
+      "status": "done"
+    },
+    {
+      "id": 4,
+      "title": "Task 4",
+      "description": "Research on drag-and-drop functionality",
+      "status": "todo"
+    },
+    {
+      "id": 5,
+      "title": "Task 5",
+      "description": "Design task cards",
+      "status": "inProgress"
+    },
+    {
+      "id": 6,
+      "title": "Task 6",
+      "description": "Finish frontend integration",
+      "status": "todo"
+    },
+    {
+      "id": 7,
+      "title": "Task 7",
+      "description": "Write unit tests for the app",
+      "status": "done"
+    },
+    {
+      "id": 8,
+      "title": "Task 8",
+      "description": "Implement backend API",
+      "status": "todo"
+    },
+    {
+      "id": 9,
+      "title": "Task 9",
+      "description": "Add validation for form inputs",
+      "status": "inProgress"
+    },
+    {
+      "id": 10,
+      "title": "Task 10",
+      "description": "Deploy app to Heroku",
+      "status": "done"
+    }
+  ]
+}
